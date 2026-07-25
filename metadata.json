@@ -1,0 +1,6 @@
+{
+  "name": "حارس - إدارة كاميرات المراقبة الذكية",
+  "description": "تطبيق ذكي متكامل لإدارة كاميرات المراقبة CCTV و IP Camera مع البث المباشر والتحكم PTZ، واكتشاف الحركة بالذكاء الاصطناعي، والتسجيلات وإدارة عدة مواقع.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
